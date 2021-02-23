@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "2527871937",
+    "firebase_url": "https://kidfun-9ed0e-default-rtdb.firebaseio.com",
+    "project_id": "kidfun-9ed0e",
+    "storage_bucket": "kidfun-9ed0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2527871937:android:4b5fb66564b7d584dd6540",
+        "android_client_info": {
+          "package_name": "com.example.KidFun3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-m6UssKlr1-Hsu6IOMT1i4R-MuB3mhhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2527871937:android:29c00d6900034d57dd6540",
+        "android_client_info": {
+          "package_name": "com.example.kidfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2527871937-0345d2drajddgrbqev74lnpgvdcs86ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidfun",
+            "certificate_hash": "16dd3c73e4b637040a2d4b280b44cf0fa00273f4"
+          }
+        },
+        {
+          "client_id": "2527871937-47olpnk1emp30oleovk2012ps5scl88a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kidfun",
+            "certificate_hash": "560262b4ca81a231feb364121b29cb505f2742b4"
+          }
+        },
+        {
+          "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-m6UssKlr1-Hsu6IOMT1i4R-MuB3mhhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2527871937:android:e71cd6a51fbbf6a8dd6540",
+        "android_client_info": {
+          "package_name": "com.proyecto.kidfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2527871937-0en203fqtljmbpk5selvng04sla9dqgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.kidfun",
+            "certificate_hash": "560262b4ca81a231feb364121b29cb505f2742b4"
+          }
+        },
+        {
+          "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-m6UssKlr1-Hsu6IOMT1i4R-MuB3mhhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2527871937:android:c145e5aa7b6d8c5fdd6540",
+        "android_client_info": {
+          "package_name": "com.proyecto.kidfun2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2527871937-gq2vvoklkb0nb132mrukjtk10e9sf9bu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.kidfun2",
+            "certificate_hash": "560262b4ca81a231feb364121b29cb505f2742b4"
+          }
+        },
+        {
+          "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-m6UssKlr1-Hsu6IOMT1i4R-MuB3mhhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2527871937-74vinbonv8eg0f38eubk3dnhqh1skgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
