@@ -47,7 +47,7 @@ object StrokeManager {
         try {
             modelIdentifier =
                 //DigitalInkRecognitionModelIdentifier.fromLanguageTag("zxx-Zsym-x-autodraw")
-                DigitalInkRecognitionModelIdentifier.fromLanguageTag("es-ES")
+                DigitalInkRecognitionModelIdentifier.fromLanguageTag("es-MX")
         } catch (e: MlKitException) {
             // language tag failed to parse, handle error.
         }

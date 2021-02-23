@@ -26,13 +26,13 @@ class MainActivity : AppCompatActivity() {
         val LaD = findViewById<ImageView>(R.id.ADibujar)
         //val Iniciar = findViewById<Button>(R.id.btnIniciar) //De algo servira despues
         val MsgT = findViewById<TextView>(R.id.txtWait)
-        val letra = listOf("a","e","i","o","u")
+        val letra = listOf("a","e","i","o","u") //AQUI SE AGREGARAN LAS VOCALES QUE MOSTRAREMOS
         val urlGifs = listOf(
-                "https://64.media.tumblr.com/0e2a4773ca385794fed1a687b077ed43/055a5199d4c375f1-7f/s500x750/4cef4aca4eedbb3cfea212a4cbb7cdfff1262c23.gif",
-                "https://64.media.tumblr.com/a9f177d84ac4269399bf377d02cc5253/6e85310797b05054-6a/s500x750/19cf8e20f310fa2e3ca0a82533c721a592b2d822.gif",
-                "https://64.media.tumblr.com/25833fc89fd4f621f968749a14a9d615/055a5199d4c375f1-96/s500x750/cb78e4599379ead37ca7054adf943c53921007f7.gif",
-                "https://64.media.tumblr.com/7ddde17a52d7aa8e4074edf3813ba7fb/fc9cce0ae10db343-01/s500x750/4f32f1ef40c9f316461dc054a5949c066cedfe72.gif",
-                "https://64.media.tumblr.com/ee8b54aaccc4861356bd2190f4abff69/fc9cce0ae10db343-7f/s500x750/e77b5f04ee6a96bd49d6b14b1918f0f66f93b226.gif"
+                "https://64.media.tumblr.com/0e2a4773ca385794fed1a687b077ed43/055a5199d4c375f1-7f/s500x750/4cef4aca4eedbb3cfea212a4cbb7cdfff1262c23.gif", //a
+                "https://64.media.tumblr.com/a9f177d84ac4269399bf377d02cc5253/6e85310797b05054-6a/s500x750/19cf8e20f310fa2e3ca0a82533c721a592b2d822.gif", //e
+                "https://64.media.tumblr.com/25833fc89fd4f621f968749a14a9d615/055a5199d4c375f1-96/s500x750/cb78e4599379ead37ca7054adf943c53921007f7.gif", //i
+                "https://64.media.tumblr.com/7ddde17a52d7aa8e4074edf3813ba7fb/fc9cce0ae10db343-01/s500x750/4f32f1ef40c9f316461dc054a5949c066cedfe72.gif", //o
+                "https://64.media.tumblr.com/ee8b54aaccc4861356bd2190f4abff69/fc9cce0ae10db343-7f/s500x750/e77b5f04ee6a96bd49d6b14b1918f0f66f93b226.gif" //u
         )
 
         val sel1 = letra.shuffled()
